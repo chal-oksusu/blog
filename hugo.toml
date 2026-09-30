@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
+# 예시 (본인의 저장소 이름에 맞게 수정)
+baseURL = 'https://chal-oksusu.github.io/blog/'
+locale = 'ko-kr'
 title = 'My New Hugo Project'
 theme = "PaperMod"
